@@ -1,7 +1,9 @@
 # Conways Game Of Life
 
-![video](/Users/lewey/Documents/Coding/Coding Projects/GitHub/ConwaysGameOfLife/media/conways-game-of-life-example-play.mp4)
+https://user-images.githubusercontent.com/102191748/234525036-f3c6cba3-8816-4ce9-a960-2902f70388b6.mp4
+
 ### Description:
+
 >The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.[1] It is a zero-player game,[2][3] meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. It is Turing complete and can simulate a universal constructor or any other Turing machine.
 
 ### Rules:
@@ -35,3 +37,8 @@ At each step in time, the following transitions occur:
 6. press space bar to start
 7. additionally you may continue to update the game with your mouse once started
 8. to end the game press space bar again
+
+
+https://user-images.githubusercontent.com/102191748/234525247-522d5e67-59d5-4843-95d6-853214a76383.mp4
+
+
