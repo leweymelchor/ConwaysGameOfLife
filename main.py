@@ -11,7 +11,7 @@ ALIVE_NEXT_COLOR = (255, 255, 255)
 
 def main():
     pygame.init()
-    screen = pygame.display.set_mode((800, 600))
+    screen = pygame.display.set_mode((1600, 1000))
 
     running = False
 
