@@ -2,6 +2,11 @@ import pygame
 import numpy as np
 import time
 
+import random
+
+
+# To display the color continuously the
+# while loop is true
 
 # COLORS:
 BG_COLOR = (10, 10, 10)
@@ -25,12 +30,12 @@ def update(screen, cells, size, with_progress=False):
             elif 2 <= alive <= 3:
                 updated_cells[row, col] = 1
                 if with_progress:
-                    color = ALIVE_NEXT_COLOR
+                    color = (random.randint(0,255), random.randint(0,255), random.randint(0,255))
         else:
             if alive == 3:
                 updated_cells[row, col] = 1
                 if with_progress:
-                    color = ALIVE_NEXT_COLOR
+                    color = (random.randint(0,255), random.randint(0,255), random.randint(0,255))
         pygame.draw.rect(screen, color, (col * size, row * size, size - 1, size - 1))
 
     return updated_cells
