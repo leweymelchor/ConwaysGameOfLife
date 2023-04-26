@@ -42,5 +42,8 @@ https://user-images.githubusercontent.com/102191748/234528691-a9e9a959-a05b-4aa1
 
 
 
+## Created By:
 
-
+|Name|Email|GitHub|
+|----|-----|-------|
+|Lewey Melchor|dlmelchor12@gmail.com|https://github.com/leweymelchor|
