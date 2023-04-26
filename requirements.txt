@@ -1,0 +1,8 @@
+###### Requirements without Version Specifiers ######
+pygame
+numpy
+time
+
+###### Requirements with Version Specifiers ######
+pygame == 2.3.0
+numpy == 1.24.3
