@@ -48,4 +48,4 @@ https://user-images.githubusercontent.com/102191748/234531748-068768dd-b8cb-4405
 
 |Name|Email|GitHub|
 |----|-----|-------|
-|Lewey Melchor|dlmelchor12@gmail.com|https://github.com/leweymelchor|
+|David "Lewey" Melchor|dlmelchor12@gmail.com|https://github.com/leweymelchor|
