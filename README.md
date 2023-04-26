@@ -44,6 +44,9 @@ At each step in time, the following transitions occur:
 
 https://user-images.githubusercontent.com/102191748/234531748-068768dd-b8cb-4405-a59d-e6a3cfffee6a.mp4
 
+### Latest Updates:
+- added rainbow colors to the alive next squares
+
 ## Created By:
 
 |Name|Email|GitHub|
